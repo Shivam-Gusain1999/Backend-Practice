@@ -1,0 +1,19 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "\"Learning project: practicing Node.js, Express, and MongoDB.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"backend\"",
+    "\"nodejs\"",
+    "\"express\"",
+    "\"practice\"",
+    "\"api\"",
+    "\"mongodb\""
+  ],
+  "author": "Shivam Gusain",
+  "license": "ISC"
+}
